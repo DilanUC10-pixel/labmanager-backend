@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
